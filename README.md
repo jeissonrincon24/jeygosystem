@@ -1,2 +1,2 @@
 # jeygosystem
-Repositorio estudiantil proyecto semi-final
+Repositorio estudiantil proyecto
